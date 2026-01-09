@@ -30,7 +30,7 @@ const config = {
   },
   social: {
     twitter: "",
-    linkedin: "",
+    linkedin: "https://www.linkedin.com/in/thanush-vardhan-27347a3a4/",
     instagram: "https://instagram.com/thanush000",
     facebook: "",
     github: "https://github.com/Thanush000",
